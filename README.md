@@ -3,60 +3,91 @@
 </div>
 
 <h3 align="center">
-  <code>🛡️ Aspiring SOC Analyst 🛡️</code>
+  <code>🛡️ Cybersecurity Enthusiast | SOC Analyst in Training 🛡️</code>
 </h3>
 
-I'm passionate about cybersecurity, threat detection, security monitoring, and incident response.
+I’m passionate about cybersecurity, threat detection, security monitoring, and incident response.  
+I’m building my skills through hands-on labs, real-world security exercises, and practical projects focused on SOC operations and defensive security.
 
-Currently building my cybersecurity knowledge through hands-on labs, practical exercises, and security-focused projects.
+---
+
+## 🔐 About Me
+
+I’m currently developing my foundation in:
+- Security Operations Center (SOC) workflows
+- Log analysis and threat detection
+- Incident response fundamentals
+- Network security and packet analysis
+- Defensive security tooling and methodologies
+
+My focus is to grow into a Security Operations Analyst / SOC Analyst L1 role and contribute to cyber defense operations.
+
+---
 
 ## 🎓 Learning Journey
 
-* Completed TryHackMe Pre-Security
-* Completed TryHackMe Cyber Security 101
-* Currently learning TryHackMe SOC Level 1
-* Practicing through Hack The Box
+- Completed TryHackMe Pre-Security
+- Completed TryHackMe Cyber Security 101
+- Currently learning TryHackMe SOC Level 1
+- Practicing through Hack The Box
+- Expanding knowledge in networking, malware analysis, and SIEM fundamentals
 
-## 🛡️ Areas of Interest
+---
 
-* Security Operations Center (SOC)
-* Security Monitoring & Log Analysis
-* Threat Detection
-* Incident Response
-* Network Security
-* Malware Analysis
+## 🧠 Areas of Interest
+
+- Security Operations Center (SOC)
+- Security Monitoring & Log Analysis
+- Threat Detection
+- Incident Response
+- Network Security
+- Malware Analysis
+- Digital Forensics Basics
+
+---
 
 ## 🛠️ Tools & Technologies
 
 ### Networking & Security
-
 Wireshark | tcpdump | Nmap | Burp Suite
 
 ### SOC & Detection
-
-Snort | SIEM Fundamentals | Log Analysis
+Snort | SIEM Fundamentals | Log Analysis | Alert Triage
 
 ### Offensive Security Tools
-
 Metasploit | Hydra | Gobuster | SQLMap
 
 ### Malware Analysis
-
 CyberChef | CAPA | REMnux | FLARE-VM
 
 ### Programming
-
 Python | Bash | PowerShell
+
+---
 
 ## 📚 Learning Platforms
 
-* TryHackMe
-* Hack The Box
+- TryHackMe
+- Hack The Box
 
-## 🎯 Career Goal
+---
 
-To begin my professional cybersecurity career as a SOC Analyst L1 and contribute to security monitoring, threat detection, and incident response.
+## 📊 Current Focus
 
+I’m actively working on:
+- SOC Level 1 concepts and workflows
+- Log analysis and event correlation
+- Threat hunting fundamentals
+- Attack surface understanding
+- Hands-on lab practice in offensive and defensive security
+
+---
+
+## 🏆 Career Goal
+
+To begin my professional cybersecurity career as a SOC Analyst L1, contributing to security monitoring, threat detection, and incident response while continuing to build expertise in defensive security operations.
+
+---
 
 ### 🌐 Connect With Me
 
@@ -72,6 +103,9 @@ To begin my professional cybersecurity career as a SOC Analyst L1 and contribute
   <a href="https://profile.hackthebox.com/profile/019f50c6-3463-7285-ae1c-6efa15a31597?utm_medium=copy_url" target="_blank">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/bandaru-sai-kumar-27a16b262/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
