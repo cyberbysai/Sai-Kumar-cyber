@@ -103,7 +103,7 @@ To begin my professional cybersecurity career as a SOC Analyst L1, contributing 
   <a href="https://profile.hackthebox.com/profile/019f50c6-3463-7285-ae1c-6efa15a31597?utm_medium=copy_url" target="_blank">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/bandaru-sai-kumar-27a16b262/)" target="_blank">
+  <a href="https://www.linkedin.com/in/bandaru-sai-kumar-27a16b262/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
