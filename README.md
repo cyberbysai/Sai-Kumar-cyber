@@ -1,6 +1,10 @@
-# Hi, I'm Sai Kumar 👋
+<div align="center">
+  <img width="2172" height="724" alt="Sai Kumar Cybersecurity Operations Banner" src="https://github.com/user-attachments/assets/9f51b6f8-4b93-4a87-bf0d-4352e2888b7e" />
+</div>
 
-### Aspiring Cybersecurity Analyst | SOC Analyst L1
+<h3 align="center">
+  <code>🛡️ Aspiring SOC Analyst </code>
+</h3>
 
 I'm passionate about cybersecurity, threat detection, security monitoring, and incident response.
 
