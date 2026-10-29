@@ -53,7 +53,23 @@ Python | Bash | PowerShell
 
 To begin my professional cybersecurity career as a SOC Analyst L1 and contribute to security monitoring, threat detection, and incident response.
 
-## 🤝 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN_URL
-* GitHub: YOUR_GITHUB_URL
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/cyberbysai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/bsaikumar?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=3418abddda08&utm_source=copy&sharerId=688e0d97fa6519751aee7037" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-88CC00?style=for-the-badge&logo=tryhackme&logoColor=0B192C" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://profile.hackthebox.com/profile/019f50c6-3463-7285-ae1c-6efa15a31597?utm_medium=copy_url" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  </a>
+</p>
+
+<p align="center">
+  <code>// Securing cyberspace, one packet at a time.</code>
+</p>
