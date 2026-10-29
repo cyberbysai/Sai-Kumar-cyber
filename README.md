@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <code>🛡️ Aspiring SOC Analyst </code>
+  <code>🛡️ Aspiring SOC Analyst 🛡️</code>
 </h3>
 
 I'm passionate about cybersecurity, threat detection, security monitoring, and incident response.
